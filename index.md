@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Taiwanese. Baseball fan. Cat lover. Classical Music enthusiast. On the journey of programming languages.
+## *Taiwanese. Baseball fan. Cat lover. Classical Music enthusiast. On the journey of programming languages.*
 
 ### Bio
 
@@ -16,7 +16,7 @@ There are three super cute cats
 
 ### With footnotes too!
 
-Back up your stuff with solid, clean citations. Footnotes can be written in markdown and appear like this.[^1] Use as many as you like.[^2]
+Back up your stuff with solid, clean citations. Footnotes can be written in markdown and appear like this. Use as many as you like.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
@@ -68,3 +68,5 @@ Thanks to [Shu Uesengi](https://github.com/chibicode) for inspiring and providin
 [^1]: This is a footnote. Click to return.
 
 [^2]: Here is another.
+
+made with
