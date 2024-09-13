@@ -4,7 +4,7 @@ layout: default
 
 ## *Taiwanese. Baseball fan. Cat lover. Classical Music enthusiast. On the journey to explore the edge of programming languages.*
 
-<p style="text-align: right; margin-right: -4rem;">Last Updated: September 2024</p>
+<p class="update">Last Updated: September 2024</p>
 
 ### Bio
 

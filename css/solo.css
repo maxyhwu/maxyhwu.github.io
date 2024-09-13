@@ -61,7 +61,7 @@ h6 {
   line-height: 1.2
 }
 
-@media (max-width: 750px) {
+@media (max-width: 768px) {
 
   h1,
   h2,
@@ -69,18 +69,23 @@ h6 {
   h4,
   h5,
   h6 {
-    margin-left: 0 !important;
-    margin-right: 0 !important;
+    margin-left: 0rem !important;
+    margin-right: 0rem !important;
   }
 }
 
 h1 {
   font-size: 2.5rem;
-  margin-bottom: 5rem;
+  margin-bottom: 3rem;
   font-weight: 700;
-  margin-left: -2rem;
-  margin-right: -2rem;
 }
+@media (min-width: 60rem){
+  h1{
+    margin-left: -2rem;
+    margin-right: -2rem;
+  }
+}
+
 
 @media (min-width: 30rem) {
   h1 {
@@ -95,20 +100,27 @@ h1 a {
 
 h2 {
   margin-top: 0rem;
-  font-size: 1.5rem;
+  font-size: 1rem;
   font-weight: 500;
-  margin-bottom: 5rem;
+  margin-bottom: 2rem;
   color: #555;
   text-align: right;
   margin-right: -4rem;
 }
 
-@media (min-width: 30rem) {
+@media (min-width: 60rem) {
+  h2 {
+    font-size: 1.25rem;
+    margin-right: -4rem;
+  }
+}
+
+@media (max-width: 60rem) {
   h2 {
     margin-top: 0rem;
     font-size: 1.25rem;
     margin-bottom: 2rem;
-    margin-right: -4rem;
+    margin-right: -2rem;
   }
 }
 
@@ -142,6 +154,17 @@ pre,
 blockquote {
   margin-top: 0;
   margin-bottom: 1.5rem;
+}
+
+p.update {
+  text-align: right;
+  /*margin-right: -4rem;*/
+}
+
+@media (min-width: 60rem) {
+  p.update {
+    margin-right: -4rem;
+  }
 }
 
 ul,
