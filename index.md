@@ -2,71 +2,30 @@
 layout: default
 ---
 
-## *Taiwanese. Baseball fan. Cat lover. Classical Music enthusiast. On the journey of programming languages.*
+## *Taiwanese. Baseball fan. Cat lover. Classical Music enthusiast. On the journey to explore the edge of programming languages.*
+
+<p style="text-align: right; margin-right: -4rem;">Last Updated: September 2024</p>
 
 ### Bio
 
-I am a research assistant at Academia Sinica and National Taiwan University. I obtained my bachelor's degree in Information Management from NTU earlier this year. **I am looking for MS/PhD position in the field of programming languages, especially topics related to software verification and formal methods.**
+I am a research assistant at [National Taiwan University]() and [Academia Sinica](), where I am fortunate to be advised by [Dr. Yih-Kuen Tsay]() and [Dr. Yu-Fang Chen](). I obtained my bachelor's degree in Information Management from NTU earlier this year. I will be serving in the [Republic of China Army]() starting in December 2024 and expect to fulfill the obligation by May 2025. **I am looking for an MS/PhD position starting in 2025 Fall in the field of programming languages, particularly in topics related to software verification and formal methods.** Please see below for my [professional experiences](#professional-experiences).
+
+<!--Taiwan, an exuberant island located in the Pacific Ocean and Eastern Asia, with  , is my home. Borned and raised in Taipei, the capital of Taiwan, also the heart of leading-era technology, I .
 
 In my leisure time, I love to watch baseball game and go to concert.
 
-There are three super cute cats
+There are three super cute cats-->
 
-> "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-### With footnotes too!
+### Professional Experiences
+<!--During undergrad, I participated in 4 era-leading labaratory and gained 6 period of teaching service. As a research assistant, I eager to learn and; As a teaching assistant, I .-->
 
-Back up your stuff with solid, clean citations. Footnotes can be written in markdown and appear like this. Use as many as you like.
+#### Research Assistant
+- abc
+- xyz
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+#### Teaching Service
+- abc
+- xyz
 
-### Add social sharing buttons
-
-Simply add the following line anywhere in your markdown:
-
-<pre><code>{% raw  %}
-{% include sharing.html %}
-{% endraw %}
-</code></pre>
-
-and get a nice responsive sharing ribbon.
-
-{% include sharing.html %}
-
-Add this at the bottom, or the top, or between every other paragraph if you're desprate for social validation.
-
-Just remember to customize the buttons to fit your url in the `_includes/sharing.html` file. These buttons are made available and customizable by the good folks at kni-labs. See the documentation at [https://github.com/kni-labs/rrssb](https://github.com/kni-labs/rrssb) for more information.
-
-### Font awesome is also included
-
-<i class="fa fa-quote-left fa-3x fa-pull-left fa-border"></i> Now you can use all the cool icons you want! [Font Awesome](http://fontawesome.io) is indeed awesome. But wait, you don't need this sweetness and you don't want that little bit of load time from the font awesome css? No problem, just disable it in the `config.yml` file, and it won't be loaded.
-
-<ul class="fa-ul">
-  <li><i class="fa-li fa fa-check-square"></i>you can make lists...</li>
-  <li><i class="fa-li fa fa-check-square-o"></i>with cool icons like this,</li>
-  <li><i class="fa-li fa fa-spinner fa-spin"></i>even ones that move!</li>
-</ul>
-
-If you need them, you can stick any of the [605 icons](http://fontawesome.io/icons/) anywhere, with any size you like. ([See documentation](http://fontawesome.io/examples/))
-
-<i class="fa fa-building"></i>&nbsp;&nbsp;<i class="fa fa-bus fa-lg"></i>&nbsp;&nbsp;<i class="fa fa-cube fa-2x"></i>&nbsp;&nbsp;<i class="fa fa-paper-plane fa-3x"></i>&nbsp;&nbsp;<i class="fa fa-camera-retro fa-4x">
-
-### Add images to make your point
-
-Images play nicely with this template as well. Add diagrams or charts to make your point, and the template will fit them in appropriately.
-
-<img src="images/hello.svg" alt="sample image">
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Thanks to [Shu Uesengi](https://github.com/chibicode) for inspiring and providing the base for this template with his excellent work, [solo](https://github.com/chibicode).
-
-<hr>
-
-##### Footnotes:
-
-[^1]: This is a footnote. Click to return.
-
-[^2]: Here is another.
-
-made with
+<!--### Diversity Statement-->
