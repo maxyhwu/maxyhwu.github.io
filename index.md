@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Taiwanese. Baseball fan. Classical Music enthusiast. On the journey of programming languages.
+## Taiwanese. Baseball fan. Cat lover. Classical Music enthusiast. On the journey of programming languages.
 
 ### Bio
 
 I am a research assistant at Academia Sinica and National Taiwan University. I obtained my bachelor's degree in Information Management from NTU earlier this year. **I am looking for MS/PhD position in the field of programming languages, especially topics related to software verification and formal methods.**
 
+In my leisure time, I love to watch baseball game and go to concert.
 
+There are three super cute cats
 
 > "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
