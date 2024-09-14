@@ -21,12 +21,15 @@ My research interests are **formal verification**, **program derivation**, **fun
 Born and raised in **Taiwan**, a beautiful and diverse island in East Asia, I am proud of my roots and the values of inclusion and equality that Taiwan embraces. As a frequent host of Pride Parades, Taiwan champions diversity, and it inspires me to promote acceptance and mutual respect in all areas of life. **With a firm belief that everyone deserves to be seen and heard, I deeply respect and support all individuals and communities.** I also value the opportunity to build new connections, so feel free to [reach me out](#contact) if you are visiting Taiwan!
 
 #### Life
-Currently, I live with my family, and we have three super adorable kittens: 荳荳 (Tou-Tou), 小小 (Hsiao-Hsiao), and 刷刷 (Shua-Shua).
+Currently, I live with my family, and we have three super adorable kittens: [Tou-Tou (荳荳), Hsiao-Hsiao (小小), and Shua-Shua (刷刷)](#kitten).
 
 In my leisure time, I enjoy watching baseball and listening to classical music. I am a loyal fan of both the Uni-Lions and the Dodgers, with Clayton Kershaw as my favorite player. He inspired my childhood decision to play baseball and dream of becoming an ace pitcher like him. Although I did not ultimately pursue baseball as a career, that ambition has driven me to persevere through challenges, pushing me to keep moving forward no matter the obstacles.
 
 I have also played the piano and flute since a young age, and my passion for classical music continues to this day. I especially love Rachmaninoff\'s piano concertos, which are true masterpieces. I also have a deep appreciation for Dvořák\'s symphonies, which are among my favorites. *If you have not heard their works yet, I highly recommend giving them a listen!*
-<img src="images/hello.svg" alt="sample image">
+<center>
+  <img src="images/cat.jpg" alt="kitten" id="kitten" style="margin: 0 0 0 0; border-radius: 10px;">
+  Tou-Tou (荳荳), Hsiao-Hsiao (小小), and Shua-Shua (刷刷)
+</center>
 
 #### Contact
 The easiest way to reach me is by email: `maxyhwu dot tw at gmail dot com`.
