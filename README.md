@@ -1,5 +1,1 @@
-This is as Jekyll theme built to make single page websites, articles, or literary masterpieces readable anywhere.
-
-### [Demo and Documentation](https://adueck.github.io/good-clean-read)
-
-Built on top of <a href="http://chibicode.github.io/solo">Solo</a>, by [Shu Uesugi](https://github.com/chibicode)
+My new personal page, with an emphasis on simplicity and cleanliness. The page is built with Jekyll theme and modified from the [Good-Clean-Read](https://github.com/adueck/good-clean-read?tab=readme-ov-file) project.

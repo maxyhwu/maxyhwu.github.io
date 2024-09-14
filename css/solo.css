@@ -1,4 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Noto+Sans:300,300italc,400,400italic,500,700);
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC:300,300italc,400,400italic,500,700');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 
 html {
   font: 18px/1.6 'Noto Sans', sans-serif;
@@ -57,7 +58,7 @@ h6 {
   ;
   color: #111;
   text-rendering: optimizeLegibility;
-  font-family: 'Noto Sans', serif;
+  font-family: 'Noto Sans', sans-serif;
   line-height: 1.2
 }
 
@@ -112,7 +113,8 @@ h2 {
 @media (min-width: 60rem) {
   h2 {
     font-size: 1.25rem;
-    margin-right: -4rem;
+    margin-right: -1.5rem;
+    margin-left: 2.5em;
   }
 }
 
@@ -122,6 +124,7 @@ h2 {
     font-size: 1.25rem;
     margin-bottom: 2rem;
     margin-right: -2rem;
+    margin-left: 2em;
   }
 }
 
@@ -157,7 +160,8 @@ table,
 pre,
 blockquote {
   margin-top: 0;
-  margin-bottom: 1.5rem;
+  margin-bottom: 0.8rem;
+  text-align: justify;
 }
 
 p.update {
@@ -167,7 +171,7 @@ p.update {
 
 @media (min-width: 60rem) {
   p.update {
-    margin-right: -4rem;
+    margin-right: -1.5rem;
   }
 }
 

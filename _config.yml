@@ -2,7 +2,7 @@
 title: Yu-Hsuan Wu
 author: Yu-Hsuan Wu
 tag_text: Yu-Hsuan Wu
-description: My personal site based on "good-clean-read" - A responsive template for publishing single-page websites, articles that are easy on the eyes.
+description: My personal site based on Jekyll amd modified from "good-clean-read" - A responsive template for publishing single-page websites, articles that are easy on the eyes.
 url: "https://maxyhwu.github.io" # base URL for your site ie. "https://www.example.com"
 baseurl: "" # subpath for base of site, leave blank if hosting at root
 
