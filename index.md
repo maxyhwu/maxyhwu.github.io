@@ -25,7 +25,7 @@ Currently, I live with my family, and we have three super adorable kittens: 荳�
 
 In my leisure time, I enjoy watching baseball and listening to classical music. I am a loyal fan of both the Uni-Lions and the Dodgers, with Clayton Kershaw as my favorite player. He inspired my childhood decision to play baseball and dream of becoming an ace pitcher like him. Although I did not ultimately pursue baseball as a career, that ambition has driven me to persevere through challenges, pushing me to keep moving forward no matter the obstacles.
 
-I have played the piano and flute since a young age, and my passion for classical music continues to this day. I especially love Rachmaninoff\'s piano concertos, which are true masterpieces. I also have a deep appreciation for Dvořák\'s symphonies, which are among my favorites. *If you haven't heard their works yet, I highly recommend giving them a listen!*
+I have played the piano and flute since a young age, and my passion for classical music continues to this day. I especially love Rachmaninoff\'s piano concertos, which are true masterpieces. I also have a deep appreciation for Dvořák\'s symphonies, which are among my favorites. *If you have not heard their works yet, I highly recommend giving them a listen!*
 <img src="images/hello.svg" alt="sample image">
 
 #### Contact
