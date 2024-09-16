@@ -9,16 +9,9 @@ layout: default
 
 #### Current Position
 I am a research assistant at [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/about/about.html) and [Academia Sinica](https://www.sinica.edu.tw/en/Tab/4), where I am fortunate to be advised by [Dr. Yih-Kuen Tsay](http://im.ntu.edu.tw/~tsay/) and [Dr. Yu-Fang Chen](https://bull.iis.sinica.edu.tw/yfc/doku.php). I obtained my bachelor\'s degree from NTU earlier this year. I will be serving in the military starting in December 2024 and expect to fulfill the obligation by May 2025.
-<!--[Republic of China Army]()-->
 
 #### Research Interests
 My research interests are **formal verification**, **program derivation**, **functional programming**, and **automata theory**. Recently I am also working on **quantum program verification**.
-
-> ***I am actively looking for a PhD (or thesis-based MS) position starting in 2025 Fall to continue my academic journey.***
-<!--Please see below for my detailed [academic experiences](#academic-experiences).-->
-
-#### Diversity Statement
-Born and raised in **Taiwan**, a beautiful and diverse island in East Asia, I am proud of my roots and the values of inclusion and equality my homeland embraces. As a frequent host of Pride Parades, Taiwan champions diversity, and it inspires me to promote acceptance and mutual respect in all areas of life. **With a firm belief that everyone deserves to be seen and heard, I deeply respect and support all individuals and communities.** I also value the opportunity to build new connections, so feel free to [reach me out](#contact) if you are visiting Taiwan!
 
 #### Life
 Currently, I live with my family, and we have three super adorable kittens: [Dou Dou (荳荳), Hsiao Hsiao (小小), and Sha Sha (刷刷)](#kitten).
