@@ -35,7 +35,7 @@ In my leisure time, I enjoy watching baseball and listening to classical music. 
 </center>
 
 #### Contact
-The [easiest](./googlec1ccb6affa1edcee.html) way to reach me is by email: `maxyhwu dot tw at gmail dot com`.
+The easiest way to reach me is by email: `maxyhwu dot tw at gmail dot com`.
 
 <!--#### Baseball-->
 <!--#### Classical Music-->
