@@ -3,17 +3,17 @@ layout: default
 ---
 ## *Baseball fan. Cat lover. Classical Music enthusiast. On the journey to explore the edge of programming languages.*
 
-<p class="update">Last Updated: April 2025</p>
+<p class="update">Last Updated: Oct 2025</p>
 
 <!--### About Me-->
 
 #### Current Position
-I am a research assistant at [Academia Sinica](https://www.sinica.edu.tw/en/Tab/4), where I am fortunate to be advised by [Dr. Yu-Fang Chen](https://guluchen.github.io/). I obtained my bachelor\'s degree in Information Management from National Taiwan University. For my previous position, please see my [resume](./YuHsuanWu_resume.pdf).
+I am a research assistant at [Academia Sinica](https://www.sinica.edu.tw/en/Tab/4), where I am fortunate to be supervised by [Dr. Yu-Fang Chen](https://guluchen.github.io/). I obtained my bachelor\'s degree in Information Management from National Taiwan University. For my previous position, please see my [resume](./Yu-Hsuan_Wu_resume.pdf).
 
 #### Research Interests
-My research interests are **programming languages** and **quantum computing**.
+I am interested in how programming languages behave in the early stages of quantum computer development, with the solid goal of developing theories and tools that facilitate the reliability of quantum program.
 
-> ***I am actively looking for a PhD position starting in 2026 Spring/Fall to continue my academic journey.***
+*Keywords:* programming languages, program verification, quantum program
 
 #### Teaching
 ##### Teaching Assistant
@@ -22,8 +22,8 @@ My research interests are **programming languages** and **quantum computing**.
 - IM1003 Programming Design: *2022 Fall, 2023 Fall*
 - IM2010 Operations Research (taught in English): *2023 Spring*
 
-##### Instructor
-- Calculus Remedial Teaching: *2021 Fall, 2022 Spring, 2022 Fall, 2023 Spring*
+##### Student Instructor
+- IM Dept. Calculus Remedial Session: *2021 Fall, 2022 Spring, 2022 Fall, 2023 Spring*
 
 #### Life
 Currently, I live with my family, and we have three super adorable kittens: [Dou Dou (荳荳), Hsiao Hsiao (小小), and Sha Sha (刷刷)](#kitten).
