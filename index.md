@@ -26,12 +26,10 @@ I am interested in how programming languages behave in the early stages of quant
 - IM Dept. Calculus Remedial Session: *2021 Fall, 2022 Spring, 2022 Fall, 2023 Spring*
 
 #### Life
-Currently, I live with my family, and we have three super adorable kittens: [Dou Dou (荳荳), Hsiao Hsiao (小小), and Sha Sha (刷刷)](#kitten).
+Apart from research, I enjoy playing and watching baseball. I'm also a classical music enthusiast and love attending live concerts. On a more personal note, I live with **Peanut**, my super-cute, 8-month-old, Taiwan-born cat.
 
-In my leisure time, I enjoy watching baseball and listening to classical music. I am a loyal fan of both the Uni-Lions and the Dodgers, with Clayton Kershaw as my favorite player. I have also played the piano and flute since a young age, and my passion for classical music continues to this day. I especially love Rachmaninoff\'s piano concertos, which are true masterpieces. I also have a deep appreciation for Dvořák\'s symphonies, which are among my favorites. *If you have not heard their works yet, I highly recommend giving them a listen!*
 <center>
-  <img src="images/cat.jpg" alt="kitten" id="kitten" style="margin: 0 0 0 0; border-radius: 10px;">
-  Dou Dou (荳荳), Hsiao Hsiao (小小), and Sha Sha (刷刷)
+  <img src="images/peanut.jpg" alt="kitten" id="kitten" style="margin: 0 0 0 0; border-radius: 10px;">
 </center>
 
 #### Contact
