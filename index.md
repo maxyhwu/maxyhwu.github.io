@@ -16,7 +16,7 @@ I am broadly interested in programming languages.
 <!--Prior to that, I was -->
 {% endif %}
 
-I am a full-time research assistant at the [Institute of Information Science, Academia Sinica](https://www.iis.sinica.edu.tw/en/index.html) in Taipei, Taiwan, supervised by Prof. [Yu-Fang Chen](https://guluchen.github.io).
+I am a full-time research assistant at the [Institute of Information Science, Academia Sinica](https://www.iis.sinica.edu.tw/en/index.html) in Taipei, Taiwan, supervised by Prof. [Yu-Fang Chen](https://guluchen.github.io). I am broadly interested in programming languages.
 
 I received my BBA in [Information Management](https://management.ntu.edu.tw/en/IM) from [National Taiwan University](https://www.ntu.edu.tw/english/) in 2024.
 
