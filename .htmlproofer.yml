@@ -1,0 +1,9 @@
+# Enable the same checks you currently use
+checks:
+  html: true     # equivalent to --check-html
+  sri: true      # equivalent to --check-sri
+
+# Ignore annoying external URLs that block bots or misbehave
+url_ignore:
+  - https://www.linkedin.com/.*         # ignore any LinkedIn URL
+  - https://www.ntu.edu.tw/english/     # ignore this specific NTU page
