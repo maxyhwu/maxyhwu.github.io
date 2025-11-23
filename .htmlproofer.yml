@@ -5,5 +5,5 @@ checks:
 
 # Ignore annoying external URLs that block bots or misbehave
 url_ignore:
-  - https://www.linkedin.com/.*         # ignore any LinkedIn URL
+  - https://www.linkedin.com/in/*         # ignore any LinkedIn URL
   - https://www.ntu.edu.tw/english/     # ignore this specific NTU page
