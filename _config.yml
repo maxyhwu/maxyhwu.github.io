@@ -1,6 +1,20 @@
 title: Yu-Hsuan Wu
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+logo: /assets/img/me/me.jpeg
+#description: Taiwanese.
+#short_description: CS PhD student @ Purdue
+#email: wu2700 [at] purdue [dot] edu
+email: maxyhwu [at] iis [dot] sinica [dot] edu [dot] tw
+links:
+  #- name: CV
+  #  url: /assets/docs/CV_202601.pdf
+  - name: GitHub
+    url: https://github.com/maxyhwu
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/maxyhwu/
+#address: >-
+#  610 Purdue Mall,<br>
+#  West Lafayette<br>
+#  IN 47906
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal

@@ -284,3 +284,11 @@ footer {
     color:#444;
   }
 }
+
+.peanut {
+  color: #d16b16;
+}
+.peanut:hover, .peanut:focus {
+  color: #a14e12;
+  font-weight: bold;
+}
