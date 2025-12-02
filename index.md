@@ -7,7 +7,7 @@ show_draft: false
 ---
 
 {% if show_draft %}
-I am an incoming Computer Science PhD student at Purdue University, supervised by Prof. [Yuxiang Peng](https://pickspeng.github.io).
+I am a Computer Science PhD student at Purdue University, supervised by Prof. [Yuxiang Peng](https://pickspeng.github.io).
 I am broadly interested in programming languages.
 <!--I am a first-year Computer Science PhD student at Purdue University, supervised by Prof. [Yuxiang Peng](https://pickspeng.github.io).-->
 <!--I am broadly interested in quantum programming languages and systems.-->
@@ -16,7 +16,9 @@ I am broadly interested in programming languages.
 <!--Prior to that, I was -->
 {% endif %}
 
-I am a full-time research assistant at the [Institute of Information Science, Academia Sinica](https://www.iis.sinica.edu.tw/en/index.html) in Taipei, Taiwan, supervised by Prof. [Yu-Fang Chen](https://guluchen.github.io). I am broadly interested in programming languages.
+I am an incoming Computer Science PhD student at Purdue University. I am broadly interested in programming languages.
+
+Until recently, I was a full-time research assistant at the [Institute of Information Science, Academia Sinica](https://www.iis.sinica.edu.tw/en/index.html) in Taipei, Taiwan, supervised by Prof. [Yu-Fang Chen](https://guluchen.github.io).
 
 I received my BBA in [Information Management](https://management.ntu.edu.tw/en/IM) from [National Taiwan University](https://www.ntu.edu.tw/english/) in 2024.
 
@@ -60,7 +62,7 @@ I enjoy playing and watching baseball.
 
 I am also a classical music enthusiast and love attending concerts.
 
-<!--On a more personal note, I live with [Peanut](./peanut){: .peanut }, my super-cute, (almost) one-year-old, Taiwan-born cat.-->
+<!--On a more personal note, I live with [Peanut](./peanut){: .peanut } -- my super-cute, (almost) one-year-old, Taiwan-born cat.-->
 On a more personal note, I live with [Peanut](){: .peanut }, my super-cute, (almost) one-year-old, Taiwan-born cat.
 
 Feel free to reach out if we share similar interests :)
