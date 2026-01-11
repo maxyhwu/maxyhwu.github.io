@@ -1,24 +1,14 @@
 ---
 layout: default
 show_news: false
-show_pubs: false
+show_pubs: true
 show_experience: false
 show_draft: false
 ---
 
-{% if show_draft %}
-I am a Computer Science PhD student at Purdue University, supervised by Prof. [Yuxiang Peng](https://pickspeng.github.io).
-I am broadly interested in programming languages.
-<!--I am a first-year Computer Science PhD student at Purdue University, supervised by Prof. [Yuxiang Peng](https://pickspeng.github.io).-->
-<!--I am broadly interested in quantum programming languages and systems.-->
+I am a first-year Computer Science PhD student at Purdue University, advised by Prof. [Yuxiang Peng](https://pickspeng.github.io). I am broadly interested in programming languages.
 
-
-<!--Prior to that, I was -->
-{% endif %}
-
-I am an incoming Computer Science PhD student at Purdue University. I am broadly interested in programming languages.
-
-Until recently, I was a full-time research assistant at the [Institute of Information Science, Academia Sinica](https://www.iis.sinica.edu.tw/en/index.html) in Taipei, Taiwan, supervised by Prof. [Yu-Fang Chen](https://guluchen.github.io).
+Prior to that, I was a full-time research assistant at the [Institute of Information Science, Academia Sinica](https://www.iis.sinica.edu.tw/en/index.html) in Taipei, Taiwan, supervised by Prof. [Yu-Fang Chen](https://guluchen.github.io).
 
 I received my BBA in [Information Management](https://management.ntu.edu.tw/en/IM) from [National Taiwan University](https://www.ntu.edu.tw/english/) in 2024.
 
@@ -28,7 +18,7 @@ I received my BBA in [Information Management](https://management.ntu.edu.tw/en/I
 {% endif %}
 
 {% if page.show_pubs %}
-### Publications
+### Talks and Publications
 {% include_relative pubs.md %}
 
 <!--
