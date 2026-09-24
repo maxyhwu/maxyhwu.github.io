@@ -1,8 +1,9 @@
 title: Yu-Hsuan Wu
 logo: /assets/img/me/me.jpeg
+#tagline:
 #description: Taiwanese.
 #short_description: CS PhD student @ Purdue
-email: wu2700 [at] purdue [dot] edu
+email: yuhsuan [at] purdue [dot] edu
 #email: maxyhwu [at] iis [dot] sinica [dot] edu [dot] tw
 links:
   #- name: CV
@@ -14,7 +15,7 @@ links:
 #address: >-
 #  610 Purdue Mall,<br>
 #  West Lafayette<br>
-#  IN 47906
+#  IN 47907
 show_downloads: false
 google_analytics: G-T08LX6PS4D
 theme: jekyll-theme-minimal
