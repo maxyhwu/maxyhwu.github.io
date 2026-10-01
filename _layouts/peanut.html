@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    {% include head-custom.html %}
+    <style>
+
+      .gallery {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: center;
+      }
+
+      .gallery-item {
+        display: block;
+        max-width: 200px;
+        /* thumbnail width */
+      }
+
+      .gallery-item img {
+        width: 100%;
+        height: auto;
+        border-radius: 8px;
+        display: block;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 style="color: #d16b16">{{ page.title }}</h1>
+
+        {% if page.logo %}
+          <!--<div style="text-align:center;">-->
+            <img src="{{ page.logo | relative_url }}" alt="Logo" style="width:70%; height:auto; border-radius: 8px;" />
+          <!--</div>-->
+        {% endif %}
+
+        {% if page.description %}
+          <p>{{ page.description }}</p>
+        {% endif %}
+
+        {% if page.links %}
+        <p>
+          {% for item in page.links %}
+          <a class="peanut" href="{{ item.url }}">{{ item.name }}</a>
+          {% unless forloop.last %} | {% endunless %}
+          {% endfor %}
+        </p>
+        {% endif %}
+      </header>
+      <section>
+
+      <div class="gallery">
+        {% assign gallery_path = '/assets/img/' | append: page.gallery %}
+        {% for image in site.static_files %}
+        {% if image.path contains gallery_path %}
+        <a href="{{ image.path | relative_url }}" class="gallery-item">
+          <img src="{{ image.path | relative_url }}" alt="{{ image.name | split: '.' | first }}">
+        </a>
+        {% endif %}
+        {% endfor %}
+      </div>
+
+      </section>
+      <footer>
+        {% include footer.html %}
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>

@@ -19,3 +19,5 @@ links:
 show_downloads: false
 google_analytics: G-T08LX6PS4D
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-sitemap
