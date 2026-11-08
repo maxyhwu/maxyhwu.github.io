@@ -54,6 +54,7 @@ I am also a classical music enthusiast and love attending concerts.
 
 <!--On a more personal note, I live with [Peanut](./peanut){: .peanut } -- my super-cute, (almost) one-year-old, Taiwan-born cat.-->
 On a more personal note, I live with [Peanut](./peanut){: .peanut }, my super-cute, one-year-old, Taiwan-born cat.
+Update [2026/11]: Sesame, a three-month-old kitten, has become my second roommate!
 
 Please feel free to reach out if we share similar interests :)
 
