@@ -6,7 +6,7 @@ show_experience: false
 show_draft: false
 ---
 
-I am a Computer Science PhD student at Purdue University, advised by Prof. [Yuxiang Peng](https://pickspeng.github.io). I am broadly interested in programming languages.
+I am a Computer Science PhD student at Purdue University, advised by Prof. [Yuxiang Peng](https://pickspeng.github.io). My research lies in programming languages and compilers, with a particular focus on quantum programming languages and systems. I am interested in bridging high-level programming abstractions and low-level quantum control through compilation and hardware–software co-design.
 
 Prior to that, I was a full-time research assistant at the [Institute of Information Science, Academia Sinica](https://www.iis.sinica.edu.tw/en/index.html), supervised by Prof. [Yu-Fang Chen](https://guluchen.github.io).
 
